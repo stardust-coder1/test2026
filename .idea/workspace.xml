@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test5_24/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.test4$ThreeSumClosest">
+  <component name="RunManager" selected="应用程序.test_1">
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test5_24.test1" />
       <module name="test2026_5" />
@@ -77,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_1" />
+      <module name="test2026_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.test_1" />
         <item itemvalue="应用程序.test4$ThreeSumClosest" />
         <item itemvalue="应用程序.test3$ThreeSum" />
         <item itemvalue="应用程序.test1" />
