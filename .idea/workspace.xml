@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test5_26/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test5_26/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test5_27/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test5_27/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +42,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.test2">
+  <component name="RunManager" selected="应用程序.test5_27.test2">
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_27.test1" />
+      <module name="test2026_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test5_27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test5_26.test2" />
       <module name="test2026_5" />
@@ -51,25 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3$ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5_24.test3$ThreeSum" />
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_26.test3" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test5_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test4$ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5_24.test4$ThreeSumClosest" />
-      <module name="test2026_5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test5_24.*" />
+          <option name="PATTERN" value="test5_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,20 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test_1" />
+    <configuration name="test5_27.test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_27.test2" />
       <module name="test2026_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test5_27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.test5_27.test2" />
+        <item itemvalue="应用程序.test1" />
+        <item itemvalue="应用程序.test3" />
         <item itemvalue="应用程序.test2" />
         <item itemvalue="应用程序.test5_26.test1" />
-        <item itemvalue="应用程序.test_1" />
-        <item itemvalue="应用程序.test4$ThreeSumClosest" />
-        <item itemvalue="应用程序.test3$ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1779796823402</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试提交">
+      <created>1779797026960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779797026960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试提交">
+      <created>1779797037996</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779797037996</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
