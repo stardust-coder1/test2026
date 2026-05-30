@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test2_29/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test5_27/test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test5_27/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_24/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_24/test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_24/test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_24/test4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/smart-table-assistant/frontend/smart-table-assistant"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="应用程序.test5_27.test2">
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test5_27.test1" />
@@ -171,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1779932344759</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="测试提交">
+      <created>1780035602751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780035602751</updated>
+    </task>
+    <task id="LOCAL-00008" summary="测试提交">
+      <created>1780035725339</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780035725339</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
