@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交" />
+    <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
+      <change afterPath="$PROJECT_DIR$/src/test5_31/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test5_31/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test5_31/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java代码（GitHub）/test2026_5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java代码（GitHub）/test2026_5&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.test5_27.test2">
+}</component>
+  <component name="RunManager" selected="应用程序.test5_31.test2">
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test5_27.test1" />
       <module name="test2026_5" />
@@ -50,34 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5_26.test2" />
-      <module name="test2026_5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test5_26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test5_26.test3" />
-      <module name="test2026_5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test5_26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test5_26.test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5_26.test1" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
@@ -102,13 +81,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test5_31.test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_31.test1" />
+      <module name="test2026_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test5_31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test5_31.test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_31.test2" />
+      <module name="test2026_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test5_31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.test5_31.test2" />
+        <item itemvalue="应用程序.test5_31.test1" />
         <item itemvalue="应用程序.test5_27.test2" />
         <item itemvalue="应用程序.test1" />
         <item itemvalue="应用程序.test3" />
-        <item itemvalue="应用程序.test2" />
-        <item itemvalue="应用程序.test5_26.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1780148173574</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="测试提交">
+      <created>1780208291279</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780208291279</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
