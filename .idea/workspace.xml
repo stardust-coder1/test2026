@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2_29/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_31/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test5_31/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test5_31/test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +38,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Java代码（GitHub）/test2026_5&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.test3$Solution">
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5_27.test1" />
+  <component name="RunManager" selected="应用程序.test4">
+    <configuration name="test3$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_31.test3$Solution" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test5_27.*" />
+          <option name="PATTERN" value="test5_31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test5_31.test3$Solution" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5_31.test4" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.test4" />
         <item itemvalue="应用程序.test3$Solution" />
         <item itemvalue="应用程序.test5_31.test2" />
         <item itemvalue="应用程序.test5_31.test1" />
         <item itemvalue="应用程序.test5_27.test2" />
-        <item itemvalue="应用程序.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1780208291279</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="测试提交">
+      <created>1780581003475</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1780581003475</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
