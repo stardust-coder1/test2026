@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test8/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test8/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test8/Mythread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test8/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test8/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test8/MyThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test8/MyThread4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test8/Mythread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -42,20 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Java代码（GitHub）/test2026_5&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Demo2">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test8.Demo1" />
-      <module name="test2026_5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Demo4">
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test8.Demo2" />
       <module name="test2026_5" />
@@ -69,12 +57,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test7.Main" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test8.Demo3" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test7.*" />
+          <option name="PATTERN" value="test8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test8.Demo4" />
+      <module name="test2026_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Demo4" />
+        <item itemvalue="应用程序.Demo3" />
         <item itemvalue="应用程序.Demo2" />
         <item itemvalue="应用程序.Mythread2" />
         <item itemvalue="应用程序.MyThread2" />
-        <item itemvalue="应用程序.Demo1" />
-        <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +345,28 @@
       <option name="project" value="LOCAL" />
       <updated>1785658430044</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="测试提交">
+      <created>1785730699988</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1785730699988</updated>
+    </task>
+    <task id="LOCAL-00033" summary="测试提交">
+      <created>1785827339625</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1785827339625</updated>
+    </task>
+    <task id="LOCAL-00034" summary="测试提交">
+      <created>1785931552868</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1785931552868</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
