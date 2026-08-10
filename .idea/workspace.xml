@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test8/Demo3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test8/Demo4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test8/MyThread3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test8/MyThread4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test8/Mythread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -366,7 +364,21 @@
       <option name="project" value="LOCAL" />
       <updated>1785931552868</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="测试提交">
+      <created>1786269974287</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1786269974287</updated>
+    </task>
+    <task id="LOCAL-00036" summary="测试提交">
+      <created>1786349541588</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1786349541589</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
