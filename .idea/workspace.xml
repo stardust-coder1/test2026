@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test_9/MethDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_9/MethDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_9/MethDom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_9/MathDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_27/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test5_27/test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/SearchRotatedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/SievePrime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test6_16/test3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +39,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Java代码（GitHub）/test2026_5&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.MethDemo3">
-    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test8.Demo9" />
+  <component name="RunManager" selected="应用程序.MathDemo2">
+    <configuration name="MathDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_9.MathDemo2" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test8.*" />
+          <option name="PATTERN" value="test_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.MathDemo2" />
         <item itemvalue="应用程序.MethDemo3" />
         <item itemvalue="应用程序.MethDemo1" />
         <item itemvalue="应用程序.MethDom" />
         <item itemvalue="应用程序.test9_15" />
-        <item itemvalue="应用程序.Demo9" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1789456477429</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="测试提交">
+      <created>1789459770211</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1789459770211</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
