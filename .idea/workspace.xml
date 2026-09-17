@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test_9/MathDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_9/NineNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_9/UserManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Java代码（GitHub）/test2026_5&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.MathDemo2">
+  <component name="RunManager" selected="应用程序.NineNine">
     <configuration name="MathDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test_9.MathDemo2" />
       <module name="test2026_5" />
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test9_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test_9.test9_15" />
+    <configuration name="NineNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_9.NineNine" />
       <module name="test2026_5" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.NineNine" />
         <item itemvalue="应用程序.MathDemo2" />
         <item itemvalue="应用程序.MethDemo3" />
         <item itemvalue="应用程序.MethDemo1" />
         <item itemvalue="应用程序.MethDom" />
-        <item itemvalue="应用程序.test9_15" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1789459770211</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="测试提交">
+      <created>1789461458369</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1789461458369</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
