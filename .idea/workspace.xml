@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f58ff5-dcc2-4f67-8624-93c313ce5a67" name="变更" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/test_9/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_9/ScoreSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_9/ExpectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_9/ExpectionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Java代码（GitHub）/test2026_5&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Demo1">
+  <component name="RunManager" selected="应用程序.ScoreSystem">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test_9.Demo1" />
       <module name="test2026_5" />
@@ -80,19 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test_9.MethDemo3" />
-      <module name="test2026_5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test_9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NineNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test_9.NineNine" />
       <module name="test2026_5" />
@@ -106,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScoreSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test_9.ScoreSystem" />
+      <module name="test2026_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ScoreSystem" />
         <item itemvalue="应用程序.Demo1" />
         <item itemvalue="应用程序.ExpectionDemo" />
         <item itemvalue="应用程序.NineNine" />
         <item itemvalue="应用程序.MathDemo2" />
-        <item itemvalue="应用程序.MethDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -124,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779613728249</updated>
-    </task>
-    <task id="LOCAL-00002" summary="测试提交">
-      <created>1779769814505</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1779769814505</updated>
     </task>
     <task id="LOCAL-00003" summary="测试提交">
       <created>1779796823402</created>
@@ -468,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1789633100847</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="测试提交">
+      <created>1789982534158</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1789982534158</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
